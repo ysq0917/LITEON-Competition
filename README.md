@@ -22,5 +22,6 @@ B機台瑕疵影像的召回率90%以上。
 參賽團隊須遞交實證成果報告暨佐證資料並出席決選審查會議。
 評審委員依決選評選標準執行決選作業，並依據初選核定結果，於參賽團隊繳交決選資料後，核定實證獎勵。
 </br>
+## 模型進入決賽證明
 
 ![Image](https://raw.githubusercontent.com/ysq0917/LITEON_contest_model_train/main/1.png)
