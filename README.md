@@ -23,6 +23,5 @@ B機台瑕疵影像的召回率90%以上。
 評審委員依決選評選標準執行決選作業，並依據初選核定結果，於參賽團隊繳交決選資料後，核定實證獎勵。
 </br>
 ## 模型成功進入決選證明
-<br>
-![image](https://github.com/ysq0917/LITEON_contest_model_train/blob/main/1.png)
-</br>
+![image](https://github.com/ysq0917/LITEON_contest_model_train/blob/image/1.png)
+
