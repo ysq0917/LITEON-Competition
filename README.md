@@ -24,4 +24,8 @@ The recall rate of defective images from machine B is over 90%.
 Select the top 10 groups based on the model accuracy index (if the accuracy is the same, select the team that reaches the accuracy in the shortest time)
 </br>
 
+#### Reward :
+![image](https://github.com/ysq0917/LITEON-Competition/blob/main/LITEON.png)
+
+
 
