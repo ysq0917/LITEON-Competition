@@ -23,4 +23,3 @@ Select the top 10 groups based on the model accuracy index (if the accuracy is t
 </br>
 
 
-![Image](https://raw.githubusercontent.com/ysq0917/LITEON_contest_model_train/main/1.png)
